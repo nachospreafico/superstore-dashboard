@@ -20,11 +20,11 @@ This is an interactive Power BI dashboard I built to analyze the well-known Supe
 
 ## 📸 **Preview**
 
-![Dashboard Screenshot](media/dashboard_screenshot.png)
+![Dashboard Screenshot](/media/dashboard_screenshot.png)
 
 ## 🎥 **Demo**
 
-![Dashboard Demo](media/dashboard_demo.gif)
+![Dashboard Demo](/media/dashboard_demo.gif)
 
 ## 🧰 **Tech Stack**
 
